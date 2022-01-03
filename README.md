@@ -6,5 +6,5 @@
 
 ## 代码规范
 
-[CSS规范](custom_platform_web/codeStandards/css.md)
+[CSS规范](./codeStandards/css.md)
 
