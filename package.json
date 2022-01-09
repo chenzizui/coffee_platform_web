@@ -8,7 +8,12 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "autoprefixer": "8.0.0",
     "core-js": "^3.6.5",
+    "postcss": "^8.4.5",
+    "postcss-loader": "^6.2.1",
+    "postcss-pxtorem": "5.1.1",
+    "pxtorem": "^1.0.0",
     "vue": "^3.2.26",
     "vue-class-component": "^8.0.0-0",
     "vue-router": "^4.0.0-0",
