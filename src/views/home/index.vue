@@ -1,5 +1,5 @@
 <template>
-  <div class="component-home">h22</div>
+  <div class="component-home">home</div>
 </template>
 
 <script lang="ts">
